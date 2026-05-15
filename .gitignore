@@ -1,0 +1,24 @@
+# Build
+build/
+
+# Object files
+*.o
+*.obj
+
+# Executable
+*.exe
+*.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# VSCode
+.vscode/
+
+# Visual Studio
+.vs/
+
+# CLion
+.idea/
